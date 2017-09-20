@@ -1,3 +1,3 @@
 # gitSkillis
 create branch
-add
+add and commit
